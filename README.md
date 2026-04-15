@@ -78,11 +78,10 @@ Git → Version Control
 
 ---
 
-# 📊 SYSTEM.METRICS (LIVE DATA)
+# 📊 SYSTEM.METRICS
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=minhphamMt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhphamMt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -91,7 +90,7 @@ Git → Version Control
 
 ---
 
-# 📈 SYSTEM.LOGS (Activity Graph)
+# 📈 SYSTEM.LOGS
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhphamMt&theme=tokyo-night&hide_border=true"/>
@@ -99,7 +98,7 @@ Git → Version Control
 
 ---
 
-# ⚡ SYSTEM.RUNTIME (Live System)
+# ⚡ SYSTEM.RUNTIME
 
 ```bash
 > initializing runtime...
@@ -111,21 +110,43 @@ Git → Version Control
 
 ---
 
-## 🔋 System Load
+# 🤖 SYSTEM.AI.BATTLE
 
-<p align="center">
-  <img src="https://progress-bar.dev/85/?scale=100&title=Backend%20Load&width=600&color=00F7FF" />
-</p>
+```txt
+[ BOT_ALPHA ] ⚔️ [ BOT_BETA ]
+
+HP: ██████████ 100%       HP: ███████░░░ 70%
+ATK: 90                   ATK: 75
+DEF: 88                   DEF: 82
+
+> BOT_ALPHA attacks...
+> BOT_BETA takes damage (-30 HP)
+> BOT_BETA counter-attacks...
+> BOT_ALPHA blocks 🛡️
+
+SYSTEM STATUS: RUNNING ⚡
+```
 
 ---
 
-## 🧠 System Logs
+# 🔋 SYSTEM.LOAD
 
 ```txt
-[INFO] API latency: optimized
-[INFO] Auth system: secured
-[INFO] DB connection: stable
-[OK]   All services running
+CPU    : ███████████░░░░░ 75%
+MEMORY : █████████░░░░░░ 60%
+API    : █████████████░░ 90%
+DB     : ████████████░░░ 80%
+```
+
+---
+
+# 🧠 SYSTEM.LOG
+
+```diff
++ [OK] API latency optimized
++ [OK] Auth system secured
++ [OK] Database stable
+- [WARN] Need more coffee ☕
 ```
 
 ---
