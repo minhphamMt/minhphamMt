@@ -6,68 +6,64 @@
 
 ---
 
-## 📊 GitHub Analytics & Streak
+## 🧠 About Me
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=minhPham28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhPham28&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=minhPham28&theme=tokyonight&hide_border=true"/>
-</p>
+* ⚙️ Backend Developer (Node.js, API Systems)
+* 🔐 Focus on Authentication, Security & Clean Architecture
+* 🚀 Building scalable & maintainable backend services
+* 🎯 Goal: Become a strong System Design Engineer
 
 ---
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhPham28&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## ⚙️ Backend Stack
+## 🚀 Core Backend Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase" />
 </p>
 
-* Node.js, Express.js
-* RESTful API Design
-* JWT Authentication & Security
-* MySQL Database Design
-* Firebase (Auth, Storage, Admin SDK)
+---
+
+## 🎨 Frontend Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+* React
+* Vite
+* Zustand
+* Axios
+* ECharts
 
 ---
 
-## 🧪 Development & Testing
+## 🧪 Dev & Testing Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,postman,vscode,jest" />
 </p>
 
 * Jest, Supertest
-* API Testing & Debugging
+* API Testing
 * Git Workflow
 
 ---
 
-## 🧠 System Mindset
+## 🧩 System Mindset
 
 <p align="center">
 
+![API](https://img.shields.io/badge/REST%20API-%2300C7B7?style=for-the-badge)
+![Auth](https://img.shields.io/badge/JWT%20Auth-%2300C7B7?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/Clean%20Architecture-%2300C7B7?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-%2300C7B7?style=for-the-badge)
-![JWT Security](https://img.shields.io/badge/JWT%20Auth-%2300C7B7?style=for-the-badge)
-![Scalability](https://img.shields.io/badge/Scalable%20Systems-%2300C7B7?style=for-the-badge)
-![Performance](https://img.shields.io/badge/High%20Performance-%2300C7B7?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Performance-%2300C7B7?style=for-the-badge)
+![Scalable](https://img.shields.io/badge/Scalable%20System-%2300C7B7?style=for-the-badge)
 
 </p>
 
 ---
 
-## 🧰 Tech Universe
+## 📦 Featured Tech Universe
 
 <p align="center">
 
@@ -76,23 +72,31 @@
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge\&logo=firebase)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
-![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge\&logo=visualstudiocode)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge\&logo=tailwind-css)
 
 </p>
 
 ---
 
-## 🧩 My Stack & Tools (Visual)
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,git,postman,vscode,jest" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhPham28&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus
+
+* 🔐 Backend Security & Authentication
+* ⚡ API Performance Optimization
+* 🧠 System Design & Architecture
+* 🤖 AI + Backend Integration
+
+---
+
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/minhPham28">
@@ -102,15 +106,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🚀 Current Focus
-
-* 🔐 Secure backend systems
-* ⚡ High-performance APIs
-* 🧠 Scalable architecture
-* 🤖 AI backend integration
 
 ---
 
