@@ -1,11 +1,11 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MINH%20PHAM&fontSize=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20System%20Builder&descAlignY=65&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Minh%20Ph%E1%BA%A1m&fontSize=55&fontAlignY=35&desc=Backend%20Engineer%20%7C%20System%20Builder&descAlignY=65&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+Backend+System...;Loading+Modules...;API+Ready+%E2%9C%85;System+Online+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Booting+Backend+System...;Loading+Modules...;API+Ready+%E2%9C%85;System+Online+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 # 🧠 SYSTEM.CONFIG
 
 ```yaml
-engineer: Minh Pham
+engineer: Minh Phạm
 role: Backend Engineer
 status: ACTIVE
 architecture: Clean Architecture
@@ -99,11 +99,34 @@ Git → Version Control
 
 ---
 
-# 🐍 SYSTEM.ANIMATION (Contribution Engine)
+# ⚡ SYSTEM.RUNTIME (Live System)
+
+```bash
+> initializing runtime...
+> loading services...
+> connecting database...
+> deploying API...
+> system stable ✅
+```
+
+---
+
+## 🔋 System Load
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minhphamMt/minhphamMt/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://progress-bar.dev/85/?scale=100&title=Backend%20Load&width=600&color=00F7FF" />
 </p>
+
+---
+
+## 🧠 System Logs
+
+```txt
+[INFO] API latency: optimized
+[INFO] Auth system: secured
+[INFO] DB connection: stable
+[OK]   All services running
+```
 
 ---
 
